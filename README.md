@@ -1,4 +1,14 @@
-apug
-====
+Austin Python User Group
+========================
 
-Repository for APUG talks and materials
+This is a respository for slides and code from past meetups, as well as
+learning materials and example code.
+
+About APUG
+==========
+
+<a href="http://www.meetup.com/austinpython">Austin Python Meetup.com page</a>
+
+<a href="http://austinpython.org">AustinPython.org</a>
+
+
