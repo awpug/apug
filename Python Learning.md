@@ -1,4 +1,3 @@
-
 Recap of Python Learning discussion at Sept 2012 Meetup
 =======================================================
 
@@ -65,5 +64,6 @@ The following folks came up to me afterwards and offered their time and services
  * Jake Basile: Flask
  * Josh Marshall
  * Eric Plaster
+ * Norman Harman njharman@gmail.com Keen on (in person) code reviews, "office hours".
 
 
